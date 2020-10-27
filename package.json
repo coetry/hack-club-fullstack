@@ -9,7 +9,8 @@
   "dependencies": {
     "next": "latest",
     "react": "^16.13.1",
-    "react-dom": "^16.13.1"
+    "react-dom": "^16.13.1",
+    "userbase-js": "^2.3.0"
   },
   "devDependencies": {
     "postcss-flexbugs-fixes": "4.2.1",
