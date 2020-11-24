@@ -1,29 +1,13 @@
-# Tailwind CSS example
+# Hack Club Fullstack
 
-This is an example of using [Tailwind CSS](https://tailwindcss.com) in a Next.js project.
+An example project using [Userbase](https://userbase.com) & [Tailwind CSS](https://tailwindcss.com) in a [Next.js](https://nextjs.org) project.
+
+Built by @coetry for an [intro to Next.js event]((https://youtu.be/WJYgyOyDvQI)) for [Hack Club](https://hackclub.com) high schoolers, 2020-10-26.
+
+[<img alt="Thumbnail of YouTube video recording" width="512" src="https://cloud-b5pynxmjd.vercel.app/2020-11-02_6n3qzpfbunxxt9bw7u9441uy091xd426.png">](https://youtu.be/WJYgyOyDvQI)
 
 ## Deploy your own
 
-Deploy the example using [Vercel](https://vercel.com):
+Deploy using [Vercel](https://vercel.com):
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/vercel/next.js/tree/canary/examples/with-tailwindcss)
-
-## How to use
-
-Execute [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) with [npm](https://docs.npmjs.com/cli/init) or [Yarn](https://yarnpkg.com/lang/en/docs/cli/create/) to bootstrap the example:
-
-```bash
-npx create-next-app --example with-tailwindcss with-tailwindcss-app
-# or
-yarn create next-app --example with-tailwindcss with-tailwindcss-app
-```
-
-Deploy it to the cloud with [Vercel](https://vercel.com/import?filter=next.js&utm_source=github&utm_medium=readme&utm_campaign=next-example) ([Documentation](https://nextjs.org/docs/deployment)).
-
-## Notes
-
-This example is a basic starting point for using [Tailwind CSS](https://tailwindcss.com) with Next.js. It includes the following [PostCSS](https://github.com/postcss/postcss) plugins:
-
-- [postcss-preset-env](https://preset-env.cssdb.org/) - Adds stage 2+ features and autoprefixes
-
-To control the generated stylesheet's filesize, this example uses Tailwind CSS' [`purge` option](https://tailwindcss.com/docs/controlling-file-size/#removing-unused-css) to remove unused CSS.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/import/project?template=https://github.com/coetry/hack-club-fullstack)
